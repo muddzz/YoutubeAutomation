@@ -1,0 +1,53 @@
+defaults:
+  hashtags:
+    - "#shopify"
+    - "#smallbusiness"
+    - "#shopsmall"
+  cta: "Link in bio! 🔗"
+
+platforms:
+  tiktok:
+    max_caption_length: 2200
+    default_hashtags:
+      - "#tiktokmademebuyit"
+      - "#fyp"
+      - "#foryoupage"
+      - "#viral"
+
+  youtube_shorts:
+    max_title_length: 100
+    default_hashtags:
+      - "#Shorts"
+      - "#Shopping"
+
+  instagram:
+    ig_user_id: "YOUR_IG_USER_ID"
+    max_caption_length: 2200
+    default_hashtags:
+      - "#instagood"
+      - "#shopnow"
+      - "#instashopping"
+
+  pinterest:
+    board_id: "YOUR_BOARD_ID"
+    default_hashtags:
+      - "#pinterestfinds"
+      - "#shoppingonline"
+
+  facebook:
+    page_id: "YOUR_PAGE_ID"
+    default_hashtags:
+      - "#shopnow"
+      - "#newproduct"
+
+  twitter:
+    max_length: 280
+    default_hashtags:
+      - "#shopify"
+      - "#deals"
+
+  amazon:
+    marketplace_id: "ATVPDKIKX0DER"
+
+  etsy:
+    shop_id: "YOUR_SHOP_ID"
